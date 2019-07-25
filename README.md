@@ -1,4 +1,4 @@
-# Embedded-Liquid-Cooling-System
+# Peltier-Tile-Controlling
 To maintain the Temperature of the water in the bottle.
 
 About this Project:-
