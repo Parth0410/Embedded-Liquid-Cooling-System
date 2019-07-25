@@ -1,4 +1,4 @@
-# Liquid-Cooling-using-Peltier-Tile
+# Embedded-Liquid-Cooling-System
 To maintain the Temperature of the water in the bottle.
 
 About this Project:-
